@@ -1,6 +1,6 @@
 # Ricochet
 
-<img alt="Ricochet cube proto" src="https://github.com/ricochetGobz/ricochet/blob/master/ASSETS/photos/ricochet_cube_proto.jpg.jpg?raw=true">
+<img alt="Ricochet cube proto" src="https://github.com/ricochetGobz/ricochet/blob/master/ASSETS/photos/Ricochet_cube_proto.jpg?raw=true">
 
 Student project at [Gobelins l'école de l'image]() by :
 
