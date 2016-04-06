@@ -19,6 +19,7 @@ Student project at [Gobelins l'école de l'image]() by :
 
 - [Ricochet_controller](https://github.com/ricochetGobz/ricochet_controller)
 - [Ricochet_server](https://github.com/ricochetGobz/ricochet_server)
+- [Ricochet_gallery](https://github.com/ricochetGobz/ricochet_gallery)
 - [Ricochet_bracelet](https://github.com/ricochetGobz/ricochet_bracelet)
 - [Ricochet_cube](https://github.com/ricochetGobz/ricochet_cube)
 
