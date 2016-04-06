@@ -13,7 +13,11 @@ Student project at [Gobelins l'école de l'image]() by :
 
 ## Concept
 
-## UML communication / Installation
+## Scenographie
+
+## UML communication
+
+<img alt="Ricochet communication schema" src="https://github.com/ricochetGobz/ricochet/blob/master/ASSETS/schemas/Ricochet_communication.png?raw=true">
 
 ## Components
 
