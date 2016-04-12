@@ -29,13 +29,16 @@ Student project at [Gobelins l'école de l'image]() by :
 
 ## Conception
 
-### First prototypes
+### First prototype
 
 - [Ricochet_proto-gobz](https://github.com/ricochetGobz/ricochet_proto_gobz)
 
-### Test of materials
+### Test of materials and protocols
 
 - [Ricochet_test-ESP8266](https://github.com/ricochetGobz/ricochet_test_wifi)
-- [Ricochet_test-DC-motor](https://github.com/ricochetGobz/ricochet_test_DC-motor)
+- [Ricochet_test-ADXL345](https://github.com/ricochetGobz/ricochet_test_ADXL345)
 - [Ricochet_test-compass-GY-271](https://github.com/ricochetGobz/ricochet_test_compass_GY-271)
 - [Ricochet_test-arduino-micro-pro](https://github.com/ricochetGobz/ricochet_test_arduino-micro-pro)
+- [Ricochet_test-DC-motor](https://github.com/ricochetGobz/ricochet_test_DC-motor)
+- [Ricochet_test-communication](https://github.com/ricochetGobz/ricochet_test_communication)
+
